@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    height: 100px;
+    width: 100%;
+}
+
+header {
+    background-color: lightgray;
+    padding: 10px;
+    padding-left: 30px;
+    box-sizing: border-box;
+}
+
+.blueSqr {
+    background-color: #4A90E2;
+    width: 100px;
+    height: 100px;
+}
+
+.textArea {
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 50px;
+    height: 200px;
+    width: 100%;
+}
+
+.row1 {
+    background-color: #4A90E2;
+}
+.row2 {
+    background-color: #50E3C2;
+}
+.row3 {
+    background-color: #B8E986;
+}
+.row4 {
+    background-color: #F8E71C;
+}
+
+
